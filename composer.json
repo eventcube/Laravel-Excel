@@ -11,6 +11,7 @@
         "import",
         "batch"
     ],
+    "minimum-stability": "dev",
     "authors": [{
         "name": "Maatwebsite.nl",
         "email": "patrick@maatwebsite.nl"
