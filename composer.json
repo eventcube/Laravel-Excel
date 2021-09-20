@@ -12,6 +12,7 @@
         "batch"
     ],
     "minimum-stability": "dev",
+    "prefer-stable": false,
     "authors": [{
         "name": "Maatwebsite.nl",
         "email": "patrick@maatwebsite.nl"
