@@ -13,14 +13,18 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": false,
-    "authors": [{
-        "name": "Maatwebsite.nl",
-        "email": "patrick@maatwebsite.nl"
-    }],
-    "repositories": [{
-        "type": "git",
-        "url": "git@github.com:eventcube/PHPExcel.git"
-    }],
+    "authors": [
+        {
+            "name": "Maatwebsite.nl",
+            "email": "patrick@maatwebsite.nl"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:eventcube/PHPExcel.git"
+        }
+    ],
     "require": {
         "php": ">=5.5",
         "phpoffice/phpexcel": "dev-php73-patch",
@@ -29,7 +33,7 @@
         "illuminate/filesystem": "^5.0",
         "illuminate/support": "^5.0",
         "jeremeamia/superclosure": "^2.3",
-        "nesbot/carbon": "~1.0",
+        "nesbot/carbon": "~1.0|^2.0",
         "tijsverkoyen/css-to-inline-styles": "~2.0"
     },
     "require-dev": {
